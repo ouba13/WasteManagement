@@ -1,2 +1,2 @@
-# WasteManagement
-this is my first application using Angular and .net 
+# Notes-App
+Notes App built on Angular 8+
